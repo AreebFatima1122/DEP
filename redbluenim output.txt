@@ -1,0 +1,35 @@
+Current piles: [3, 4, 5]
+Computer's move: Remove 1 stones from pile 0
+
+Current piles: [2, 4, 5]
+Enter pile index (0, 1, or 2): 0
+Enter count to remove (1 to 2): 2
+Your move: Remove 2 stones from pile 0
+
+Current piles: [0, 4, 5]
+Computer's move: Remove 1 stones from pile 1
+
+Current piles: [0, 3, 5]
+Enter pile index (0, 1, or 2): 1
+Enter count to remove (1 to 3): 3
+Your move: Remove 3 stones from pile 1
+
+Current piles: [0, 0, 5]
+Computer's move: Remove 1 stones from pile 2
+
+Current piles: [0, 0, 4]
+Enter pile index (0, 1, or 2): 1
+Enter count to remove (1 to 0): 7
+Invalid input. Try again.
+Enter pile index (0, 1, or 2): 2
+Enter count to remove (1 to 4): 3
+Your move: Remove 3 stones from pile 2
+
+Current piles: [0, 0, 1]
+Computer's move: Remove 1 stones from pile 2
+
+Game over!
+Final piles: [0, 0, 0]
+Computer wins!
+
+[Program finished]
